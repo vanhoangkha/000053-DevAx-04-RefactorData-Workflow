@@ -1,4 +1,4 @@
-# 📊 DevAx 04: Refactor Data Workflow
+# DevAx 04: Refactor Data Workflow
 
 Refactor data processing workflows for scalability.
 
@@ -8,7 +8,7 @@ This is a hands-on workshop from the **AWS First Cloud Journey** series, designe
 
 ## Workshop
 
-📖 **[Start the workshop](https://vanhoangkha.github.io/000053-DevAx-04-RefactorData-Workflow/)**
+**[Start the workshop](https://vanhoangkha.github.io/000053-DevAx-04-RefactorData-Workflow/)**
 
 ## Prerequisites
 
